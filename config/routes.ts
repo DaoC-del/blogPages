@@ -55,6 +55,7 @@ export default [
     path: '/article/:id',
     name: 'article',
     icon: 'smile',
+    hiddenMenu:true,
     component: './Article',
   },
   {
